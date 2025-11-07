@@ -11,6 +11,7 @@ The notebook runs on Python, using:
 
 
 **Example Calculation**
+
 Below is a simple example, using (the matrix for) the "naive" calculator circuit to compute $1 \times 1 = 1$.
 
 ```python
